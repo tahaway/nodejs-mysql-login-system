@@ -1,6 +1,6 @@
 [![passport banner](http://i.imgur.com/YCkk8t5.png)](https://github.com/tahaway/nodejs-mysql-login-system)
 
-# Passport
+# NodeJs Login System -  MYSQL - Knex - Bookshelf.js
 
 [![Dependencies](https://david-dm.org/jaredhanson/passport.svg)](http://bookshelfjs.org/)
 
